@@ -40,5 +40,7 @@ I wanted to develop an air quality detection system because moving to Bucharest 
 Additionally, you can change the sampling rate of the sensor readings as well as the interval in which the display will update.
 
 ## Preview 
-Below you can see how the PM2.5 plot is represented. 
-<img src="res/AQDisplay.jpg" width="450" title="display" > <br>
+### Model
+<img src="res/AQModel.jpeg" width="450" title="model" > <br>
+### Display
+<img src="res/AQDisplay.jpg" width="450" title="model" > <br>
